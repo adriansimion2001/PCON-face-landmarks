@@ -1,4 +1,4 @@
-Proiectul max redare scnene audio pe baza expresiilor faciale
+Proiect MAX MSP: redare scnene audio pe baza expresiilor faciale
 (Scurtă descriere)
 
 ## (Instalare)

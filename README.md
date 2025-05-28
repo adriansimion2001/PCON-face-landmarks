@@ -4,7 +4,7 @@ Proiectul are în prinm plan redarea dinamică (în timp real) a unor scene audi
 
 ## Pentru a funcționa sunt necesare urmatoarele tool-uri ajutătoare:
 *   MAX MSP 9 (compatibilitatea cu versiunile mai vechi nu este verificată) : https://cycling74.com/downloads
-   * MAX MSP necesită achiziția unei licențe, în schimb furnizorul oferă o vaiantă gratuită pentru 30 de zile (valabilă la momentul publicării repozitori-ului).
+   ** MAX MSP necesită achiziția unei licențe, în schimb furnizorul oferă o vaiantă gratuită pentru 30 de zile (valabilă la momentul publicării repozitori-ului).
 *   Prin intermediul Wekinator se va realiza antrenarea algoritmului de clasificare: http://www.wekinator.org
 *   Data OSC este o aplicație disponibilă pe iOS și permite transmiterea coordonatelor faciale prin OSC in MAX : https://github.com/kylemcdonald/ofxFaceTracker/releases
 *   Pentru demonstrație se va furniza și o colecție de fișiere audio, care ulterior pot fi înlocuite după bunul plac.

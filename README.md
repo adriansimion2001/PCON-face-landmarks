@@ -14,7 +14,7 @@ Proiectul are în prinm plan redarea dinamică (în timp real) a unor scene audi
     <img width="698" alt="image" src="https://github.com/user-attachments/assets/e1bb7058-76d9-484e-96e2-8c88a727178f" />
 
 *   Data OSC este o aplicație disponibilă pe iOS și permite transmiterea coordonatelor faciale prin OSC in MAX: https://apps.apple.com/us/app/data-osc/id6447833736
-    <img width="518" alt="image" src="https://github.com/user-attachments/assets/345ba00c-7317-43ba-8170-08677d60db60" />
+   <img width="518" alt="image" src="https://github.com/user-attachments/assets/a5552961-4cc6-43a0-8696-716ec5b536ee" />
 
 *   Pentru demonstrație se va furniza și o colecție de fișiere audio, care ulterior pot fi înlocuite după bunul plac.
 

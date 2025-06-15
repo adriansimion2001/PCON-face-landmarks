@@ -1,6 +1,6 @@
-# Proiect MAX MSP: Redare de scnene audio pe baza expresiilor faciale
+# Proiect MAX MSP: Redare de scene audio pe baza expresiilor faciale
 
-Proiectul are în prinm plan redarea dinamică (în timp real) a unor scene audio prestabilite pe baza schimbărilor de emoție, cu scopul de a permite interpretarea unei piese de teatru/ o reprezentație artistică live, fară a necesita prezența unui inginer de playback.
+Proiectul are în prim plan redarea dinamică (în timp real) a unor scene audio prestabilite pe baza schimbărilor de emoție, cu scopul de a permite interpretarea unei piese de teatru/ o reprezentație artistică live, fară a necesita prezența unui inginer de playback.
 
 ![image](https://github.com/user-attachments/assets/17164801-c297-4a57-9c97-eb73f118d9cf)
 

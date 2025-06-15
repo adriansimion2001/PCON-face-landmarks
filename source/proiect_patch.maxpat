@@ -10,7 +10,8 @@
 		}
 ,
 		"classnamespace" : "box",
-		"rect" : [ 585.0, 1576.0, 1205.0, 948.0 ],
+		"rect" : [ 436.0, 193.0, 1642.0, 948.0 ],
+		"openinpresentation" : 1,
 		"gridsize" : [ 15.0, 15.0 ],
 		"boxes" : [ 			{
 				"box" : 				{
@@ -1490,7 +1491,7 @@
 						}
 ,
 						"classnamespace" : "box",
-						"rect" : [ 857.0, 1561.0, 1205.0, 948.0 ],
+						"rect" : [ 437.0, 193.0, 1642.0, 948.0 ],
 						"gridsize" : [ 15.0, 15.0 ],
 						"visible" : 1,
 						"boxes" : [ 							{

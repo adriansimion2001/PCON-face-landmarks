@@ -2,11 +2,20 @@
 
 Proiectul are în prinm plan redarea dinamică (în timp real) a unor scene audio prestabilite pe baza schimbărilor de emoție, cu scopul de a permite interpretarea unei piese de teatru/ o reprezentație artistică live, fară a necesita prezența unui inginer de playback.
 
+![image](https://github.com/user-attachments/assets/17164801-c297-4a57-9c97-eb73f118d9cf)
+
+
+
 ## Pentru a funcționa sunt necesare urmatoarele tool-uri ajutătoare:
 *   MAX MSP 9 (compatibilitatea cu versiunile mai vechi nu este verificată) : https://cycling74.com/downloads
+   ![image](https://github.com/user-attachments/assets/70984252-f63f-4e84-a03b-c66e64a91c79)
    ** MAX MSP necesită achiziția unei licențe, în schimb furnizorul oferă o vaiantă gratuită pentru 30 de zile (valabilă la momentul publicării repozitori-ului).
 *   Prin intermediul Wekinator se va realiza antrenarea algoritmului de clasificare: http://www.wekinator.org
+    <img width="698" alt="image" src="https://github.com/user-attachments/assets/e1bb7058-76d9-484e-96e2-8c88a727178f" />
+
 *   Data OSC este o aplicație disponibilă pe iOS și permite transmiterea coordonatelor faciale prin OSC in MAX: https://apps.apple.com/us/app/data-osc/id6447833736
+    <img width="518" alt="image" src="https://github.com/user-attachments/assets/345ba00c-7317-43ba-8170-08677d60db60" />
+
 *   Pentru demonstrație se va furniza și o colecție de fișiere audio, care ulterior pot fi înlocuite după bunul plac.
 
 ## Pașii de urmat:
